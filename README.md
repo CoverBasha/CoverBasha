@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmad and I'm a Software Engineer, from Cairo, Egypt.</p>
+<p align="left">My name is Ahmad and I'm a Software Engineer and a .NET developer, from Cairo, Egypt.</p>
 
 ###
 
