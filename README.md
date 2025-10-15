@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Ahmad and I'm a Software Engineer and a .NET developer, from Cairo, Egypt.</p>
+<p align="left">My name is Ahmad<br>I'm a Software Engineer and a .NET developer.<br>I like to figure things and solve problems</p>
 
 ###
 
