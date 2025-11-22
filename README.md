@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmad<br>I'm a Software Engineer and a .NET developer.<br>I like to figure things and solve problems</p>
+<p align="left">I am Ahmad<br>I'm a Software Engineer and a .NET developer.<br>I like to figure things out and solve problems</p>
 
 ###
 
